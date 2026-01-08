@@ -26,7 +26,7 @@ Unlike standard calculators that only provide the Moore-Penrose pseudoinverse ($
 * **Step-by-step solutions:** Visualization of intermediate steps.
 * **Verification:** Automatic check if the result satisfies the required Moore-Penrose equations.
 
-## 🛠️ Tech Stack
+## Tech Stack
 * **Language:** Python 3.11.9+
 * **Framework:** Streamlit
 * **Libraries:** NumPy, SymPy, Pandas
