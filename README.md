@@ -7,7 +7,7 @@
 
 ## Live Demo
 The application is deployed and available online:  
-**[Click here to open the App](https://generalized-inverse-generator.streamlit.app)**
+**[Click here to open the App](https://generalized-inverses-generator.streamlit.app/)**
 
 ##  About the Project
 This repository contains the source code for a web application developed as part of an Engineering Thesis. The main goal of the project was to implement algorithms for calculating various classes of **generalized matrix inverses**.
